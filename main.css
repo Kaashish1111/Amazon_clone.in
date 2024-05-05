@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.upper_nav{
+    display: flex;
+    /* background-color:#131921;  */
+}
+#amazon_logo{
+    width: 128.73px;
+    height: 50px;
+    flex-shrink: 0;
+    text-decoration: none;
+    padding: 1px 8px 0 6px;
+    margin: 1px;
+}
+a{
+    text-decoration: none;
+}
+#deliver {
+    width: 231.22px;
+    height: 50px;
+    padding: 0 9px 0 9px;
+    margin: 5px 2px 5px 0;
+    text-transform: capitalize;
+}
+#deliver a{
+    text-transform: none;
+    color: black;
+}
